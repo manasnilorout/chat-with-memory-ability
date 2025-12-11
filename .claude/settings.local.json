@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.mem0.ai)",
+      "WebSearch",
+      "Bash(mkdir:*)"
+    ]
+  }
+}
